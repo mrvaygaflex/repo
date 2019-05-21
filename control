@@ -1,0 +1,8 @@
+Package: com.vaygallc.akshun
+Name: akshun
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: The future is here everyone!
+Maintainer: mrvayga
+Author: mrvayga
+Section: Utilities
